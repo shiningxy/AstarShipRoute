@@ -153,3 +153,7 @@ cython_debug/
 
 # tif file
 data/ETOPO1_Bed_c_geotiff.tif
+
+# idea
+.idea/*
+.idea
