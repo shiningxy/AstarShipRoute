@@ -14,13 +14,13 @@ https://ngdc.noaa.gov/mgg/global/relief/ETOPO1/data/bedrock/cell_registered/geor
 
 `Ctrl-F` 搜索 `GDAL‑3.3.3‑cp38‑cp38‑win_amd64.whl` 并下载
 
-```
-pip install GDAL‑3.3.3‑cp38‑cp38‑win_amd64.whl
-```
 
 ```
 conda create -n asr python=3.8 -y
 conda activate asr
 pip install -r requirements.txt
+```
+```
+pip install GDAL‑3.3.3‑cp38‑cp38‑win_amd64.whl
 ```
 
